@@ -1,10 +1,10 @@
 # Developing a Neural Network Classification Model
 
-## AIM
+## AIM:
 
 To develop a neural network classification model for the given dataset.
 
-## Problem Statement
+## Problem Statement:
 
 An automobile company has plans to enter new markets with their existing products. After intensive market research, they’ve decided that the behavior of the new market is similar to their existing market.
 
@@ -12,11 +12,11 @@ In their existing market, the sales team has classified all customers into 4 seg
 
 You are required to help the manager to predict the right group of the new customers.
 
-## Neural Network Model
+## Neural Network Model:
 
-Include the neural network model diagram.
+![image](https://user-images.githubusercontent.com/93427246/228249783-eb98c8bc-5c9f-4cf4-939d-1c91fe9a4943.png)
 
-## DESIGN STEPS
+## DESIGN STEPS:
 
 ### STEP 1:
 Import the necessary packages & modules.
@@ -41,7 +41,7 @@ Save the model using pickle.
 ### STEP 11:
 Using the DL model predict for some random inputs.
 
-## PROGRAM
+## PROGRAM:
 
 Developed by: Sanjay Kumar S S
 Register Num: 212221240048
@@ -147,27 +147,31 @@ print(x_prediction)
 print(le.inverse_transform(x_prediction))
 ```
 
-## Dataset Information
+## Dataset Information:
 
-Include screenshot of the dataset
+![image](https://user-images.githubusercontent.com/93427246/228246952-779d23d0-3546-4efa-8930-653e18dbbb1e.png)
 
 ## OUTPUT
 
-### Training Loss, Validation Loss Vs Iteration Plot
+###  Loss, Validation Loss Plot:
 
-Include your plot here
+![image](https://user-images.githubusercontent.com/93427246/228247570-5b7c82d0-3dfd-4ad7-bc4d-ef397aafa982.png)
 
-### Classification Report
+### Accuracy,Validation Accuracy Plot:
 
-Include Classification Report here
+![image](https://user-images.githubusercontent.com/93427246/228247652-ebe97308-5858-435c-80f5-170a4b316a02.png)
 
-### Confusion Matrix
+### Classification Report:
 
-Include confusion matrix here
+![image](https://user-images.githubusercontent.com/93427246/228247901-138a15f6-2b1a-42da-ba6b-5fd11f5c1e03.png)
+
+### Confusion Matrix:
+
+![image](https://user-images.githubusercontent.com/93427246/228247957-dfc10b87-1243-4372-adae-4e084489ea93.png)
 
 
-### New Sample Data Prediction
+### New Sample Data Prediction:
 
-Include your sample input and output here
-
-## RESULT
+![image](https://user-images.githubusercontent.com/93427246/228248094-c6b191a4-b605-4f73-bf18-b3d0fa1d7e56.png)
+## RESULT:
+A neural network classification model is developed for the given dataset.
