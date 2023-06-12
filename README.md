@@ -45,7 +45,7 @@ Using the DL model predict for some random inputs.
 
 Developed by: Sanjay Kumar S S
 Register Num: 212221240048
-```
+```py
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
